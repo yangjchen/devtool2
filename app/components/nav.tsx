@@ -35,7 +35,7 @@ export const Navigation: React.FC = () => {
 							Dev Tool 2.0
 						</Link>
 						<Link
-							href="www.biang.design"
+							href="http://www.biang.design"
 							className="duration-200 text-zinc-400 hover:text-zinc-100"
 						>
 							Biang Design
