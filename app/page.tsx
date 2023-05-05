@@ -4,7 +4,7 @@ import Particles from "./components/particles";
 
 const navigation = [
 	{ name: "Dev Tool 2.0", href: "/projects" },
-	{ name: "Biang Design", href: "www.biang.design" },
+	{ name: "Biang Design", href: "http://www.biang.design" },
 ];
 
 export default function Home() {
